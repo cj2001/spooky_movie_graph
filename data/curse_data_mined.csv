@@ -1,4 +1,4 @@
-Label,ID,Relation Label,Relation ID,Label ,ID
+SourceLabel,SourceID,RelationLabel,RelationID,TargetLabel ,TargetID
 Poltergeist (1982),https://www.wikidata.org/wiki/Q497622,uses,https://www.wikidata.org/wiki/Property:P2283,Skeleton,https://en.wikipedia.org/wiki/Skeleton
 Poltergeist (1982),https://www.wikidata.org/wiki/Q497622,significant event,https://www.wikidata.org/wiki/Property:P793,strangling,https://www.wikidata.org/wiki/Q1145328
 Dominique Dunne,https://www.wikidata.org/wiki/Q254596,significant event,https://www.wikidata.org/wiki/Property:P793,strangling,https://www.wikidata.org/wiki/Q1145328
