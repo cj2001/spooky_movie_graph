@@ -1,62 +1,62 @@
 SourceLabel,SourceID,RelationLabel,RelationID,TargetLabel,TargetID
-Poltergeist (1982),https://www.wikidata.org/wiki/Q497622,uses,https://www.wikidata.org/wiki/Property:P2283,Skeleton,https://en.wikipedia.org/wiki/Skeleton
-Poltergeist (1982),https://www.wikidata.org/wiki/Q497622,significant event,https://www.wikidata.org/wiki/Property:P793,strangling,https://www.wikidata.org/wiki/Q1145328
-Dominique Dunne,https://www.wikidata.org/wiki/Q254596,significant event,https://www.wikidata.org/wiki/Property:P793,strangling,https://www.wikidata.org/wiki/Q1145328
-Dominique Dunne,https://www.wikidata.org/wiki/Q254596,cause of death,https://www.wikidata.org/wiki/Property:P509,coma,https://www.wikidata.org/wiki/Q159557
-Poltergeist (1982),https://www.wikidata.org/wiki/Q497622,number of deaths,https://www.wikidata.org/wiki/Property:P509,2,
-Poltergeist (1982),https://www.wikidata.org/wiki/Q497622,number of injured,https://www.wikidata.org/wiki/Property:P1339,1,
-Heather O'Rourke,https://www.wikidata.org/wiki/Q230965,cause of death,https://www.wikidata.org/wiki/Property:P509,septic shock,https://www.wikidata.org/wiki/Q1765564
-Poltergeist (1982),https://www.wikidata.org/wiki/Q497622,has quality,https://www.wikidata.org/wiki/Property:P1552,curse,https://www.wikidata.org/wiki/Q109411
-Poltergeist (1982),https://www.wikidata.org/wiki/Q497622,has quality,https://www.wikidata.org/wiki/Property:P1552,paranormal phenomenon,https://www.wikidata.org/wiki/Q332102
-Zelda Rubinstein,https://www.wikidata.org/wiki/Q187345,significant event,https://www.wikidata.org/wiki/Property:P793,paranormal phenomenon,https://www.wikidata.org/wiki/Q332102
-The Wizard of Oz,https://www.wikidata.org/wiki/Q193695,has quality,https://www.wikidata.org/wiki/Property:P1552,curse,https://www.wikidata.org/wiki/Q109411
-Margaret Hamilton,https://www.wikidata.org/wiki/Q257756,significant event,https://www.wikidata.org/wiki/Property:P793,burn,https://www.wikidata.org/wiki/Q170518
-Betty Danko,https://www.wikidata.org/wiki/Q98609857,significant event,https://www.wikidata.org/wiki/Property:P793,burn,https://www.wikidata.org/wiki/Q170518
-The Wizard of Oz,https://www.wikidata.org/wiki/Q193695,cast member,https://www.wikidata.org/wiki/Property:P161,Betty Danko,https://www.wikidata.org/wiki/Q98609857
-The Wizard of Oz,https://www.wikidata.org/wiki/Q193695,cast member,https://www.wikidata.org/wiki/Property:P161,Buddy Ebsen,https://www.wikidata.org/wiki/Q1001214
-Buddy Ebsen,https://www.wikidata.org/wiki/Q1001214,significant event,https://www.wikidata.org/wiki/Property:P793,pulmonary fibrosis,https://www.wikidata.org/wiki/Q32446
-The Wizard of Oz,https://www.wikidata.org/wiki/Q193695,cast member,https://www.wikidata.org/wiki/Property:P161,Winged monkeys,https://en.wikipedia.org/wiki/Winged_monkeys
-Winged monkeys,https://en.wikipedia.org/wiki/Winged_monkeys,significant event,https://www.wikidata.org/wiki/Property:P793,bone fracture,https://www.wikidata.org/wiki/Q68833
-Terry,https://www.wikidata.org/wiki/Q7704028,significant event,https://www.wikidata.org/wiki/Property:P793,sprain,https://www.wikidata.org/wiki/Q470747
-The Wizard of Oz,https://www.wikidata.org/wiki/Q193695,number of injured,https://www.wikidata.org/wiki/Property:P1339,5,
-The Alamo,https://www.wikidata.org/wiki/Q1621909,has quality,https://www.wikidata.org/wiki/Property:P1552,curse,https://www.wikidata.org/wiki/Q109411
-The Alamo,https://www.wikidata.org/wiki/Q1621909,significant event,https://www.wikidata.org/wiki/Property:P793,typhoon,https://www.wikidata.org/wiki/Q140588
-The Alamo,https://www.wikidata.org/wiki/Q1621909,significant event,https://www.wikidata.org/wiki/Property:P793,conflagration,https://www.wikidata.org/wiki/Q168983
-The Alamo,https://www.wikidata.org/wiki/Q1621909,significant event,https://www.wikidata.org/wiki/Property:P793,car accident,https://www.wikidata.org/wiki/Q61037771
-The Alamo,https://www.wikidata.org/wiki/Q1621909,significant event,https://www.wikidata.org/wiki/Property:P793,influenza,https://www.wikidata.org/wiki/Q2840
-Laurence Harvey,https://www.wikidata.org/wiki/Q374045,significant event,https://www.wikidata.org/wiki/Property:P793,bone fracture,https://www.wikidata.org/wiki/Q68833
-The Alamo,https://www.wikidata.org/wiki/Q1621909,cast member,https://www.wikidata.org/wiki/Property:P161,Lajean Ethridge,https://www.imdb.com/name/nm0253173/
-Lajean Ethridge,https://www.imdb.com/name/nm0253173/,cause of death,https://www.wikidata.org/wiki/Property:P509,stabbing,https://www.wikidata.org/wiki/Q464643
-The Alamo,https://www.wikidata.org/wiki/Q1621909,number of deaths,https://www.wikidata.org/wiki/Property:P509,1,
-The Alamo,https://www.wikidata.org/wiki/Q1621909,number of injured,https://www.wikidata.org/wiki/Property:P1339,3,
-The Sixth Sense,https://www.wikidata.org/wiki/Q183063,has quality,https://www.wikidata.org/wiki/Property:P1552,paranormal phenomenon,https://www.wikidata.org/wiki/Q332102
-Toni Collette,https://www.wikidata.org/wiki/Q229291,significant event,https://www.wikidata.org/wiki/Property:P793,paranormal phenomenon,https://www.wikidata.org/wiki/Q332102
-Shelley Duvall,https://www.wikidata.org/wiki/Q235478,manner of inhumane treatment,https://www.wikidata.org/wiki/Property:P7160,Isolation to facilitate abuse,https://www.wikidata.org/wiki/Q28135040
-Shelley Duvall,https://www.wikidata.org/wiki/Q235478,significant event,https://www.wikidata.org/wiki/Property:P793,psychological stress,https://www.wikidata.org/wiki/Q3500368
-Shelley Duvall,https://www.wikidata.org/wiki/Q235478,significant event,https://www.wikidata.org/wiki/Property:P793,alopecia,https://www.wikidata.org/wiki/Q2697787
-Shelley Duvall,https://www.wikidata.org/wiki/Q235478,victim of,https://www.wikidata.org/wiki/Q96786225,Stanley Kubrick,https://www.wikidata.org/wiki/Q2001
-Stanley Kubrick,https://www.wikidata.org/wiki/Q2001,instance of,https://www.wikidata.org/wiki/Property:P31,bully,https://www.wikidata.org/wiki/Q107364758
-The Shining,https://www.wikidata.org/wiki/Q186341,significant event,https://www.wikidata.org/wiki/Property:P793,conflagration,https://www.wikidata.org/wiki/Q168983
-The Shining,https://www.wikidata.org/wiki/Q186341,has quality,https://www.wikidata.org/wiki/Property:P1552,paranormal phenomenon,https://www.wikidata.org/wiki/Q332102
-The Amityville Horror,https://www.wikidata.org/wiki/Q472512,has quality,https://www.wikidata.org/wiki/Property:P1552,film based on actual events,https://www.wikidata.org/wiki/Q28146524
-The Amityville Horror,https://www.wikidata.org/wiki/Q472512,has quality,https://www.wikidata.org/wiki/Property:P1552,paranormal phenomenon,https://www.wikidata.org/wiki/Q332102
-The Amityville Horror,https://www.wikidata.org/wiki/Q472512,has quality,https://www.wikidata.org/wiki/Property:P1552,curse,https://www.wikidata.org/wiki/Q109411
-James Brolin,https://www.wikidata.org/wiki/Q315051,significant event,https://www.wikidata.org/wiki/Property:P793,paranormal phenomenon,https://www.wikidata.org/wiki/Q332102
-Steve McQueen,https://www.wikidata.org/wiki/Q159347,significant event,https://www.wikidata.org/wiki/Property:P793,car accident,https://www.wikidata.org/wiki/Q61037771
-Steve McQueen,https://www.wikidata.org/wiki/Q159347,significant event,https://www.wikidata.org/wiki/Property:P793,conspiracy,https://www.wikidata.org/wiki/Q930164
-Charles Manson,https://www.wikidata.org/wiki/Q485508,member,https://www.wikidata.org/wiki/Q9200127,conspiracy,https://www.wikidata.org/wiki/Q930164
-Steve McQueen,https://www.wikidata.org/wiki/Q159347,significant event,https://www.wikidata.org/wiki/Property:P793,divorce,https://www.wikidata.org/wiki/Q93190
-Le Mans,https://www.wikidata.org/wiki/Q613290,cast member,https://www.wikidata.org/wiki/Property:P161,Derek Bell,https://www.wikidata.org/wiki/Q165814
-Derek Bell,https://www.wikidata.org/wiki/Q165814,significant event,https://www.wikidata.org/wiki/Property:P793,car accident,https://www.wikidata.org/wiki/Q61037771
-Derek Bell,https://www.wikidata.org/wiki/Q165814,significant event,https://www.wikidata.org/wiki/Property:P793,burn,https://www.wikidata.org/wiki/Q170518
-Derek Bell,https://www.wikidata.org/wiki/Q165814,significant event,https://www.wikidata.org/wiki/Property:P793,amputation,https://www.wikidata.org/wiki/Q477415
-Louise Edlind Friberg,https://www.wikidata.org/wiki/Q438138,significant event,https://www.wikidata.org/wiki/Property:P793,car accident,https://www.wikidata.org/wiki/Q61037771
-Louise Edlind Friberg,https://www.wikidata.org/wiki/Q438138,cause of death,https://www.wikidata.org/wiki/Property:P509,car accident,https://www.wikidata.org/wiki/Q61037771
-Le Mans,https://www.wikidata.org/wiki/Q613290,number of deaths,https://www.wikidata.org/wiki/Property:P509,1,
-Le Mans,https://www.wikidata.org/wiki/Q613290,number of injured,https://www.wikidata.org/wiki/Property:P1339,3,
-Computer Fraud and Abuse Act,https://www.wikidata.org/wiki/Q5157437,inspired by,https://www.wikidata.org/wiki/Property:P941,War Games,https://www.wikidata.org/wiki/Q504697
-Computer Fraud and Abuse Act,https://www.wikidata.org/wiki/Q5157437,main subject,https://www.wikidata.org/wiki/Property:P921,internet security,https://www.wikidata.org/wiki/Q1070427
-John William Vessey,https://www.wikidata.org/wiki/Q562902,creator of,https://www.wikidata.org/wiki/Q78522641,Computer Fraud and Abuse Act,https://www.wikidata.org/wiki/Q5157437
-Aaron Swartz,https://www.wikidata.org/wiki/Q302817,convicted of,https://www.wikidata.org/wiki/Property:P1399,computer fraud,https://www.wikidata.org/wiki/Q1122388
-Aaron Swartz,https://www.wikidata.org/wiki/Q302817,cause of death,https://www.wikidata.org/wiki/Property:P509,suicide,https://www.wikidata.org/wiki/Q10737
-War Games,https://www.wikidata.org/wiki/Q504697,number of deaths,https://www.wikidata.org/wiki/Property:P509,1,
+Poltergeist (1982),https://www.wikidata.org/entity/Q497622,uses,https://www.wikidata.org/entity/Property:P2283,Skeleton,https://en.wikipedia.org/entity/Skeleton
+Poltergeist (1982),https://www.wikidata.org/entity/Q497622,significant event,https://www.wikidata.org/entity/Property:P793,strangling,https://www.wikidata.org/entity/Q1145328
+Dominique Dunne,https://www.wikidata.org/entity/Q254596,significant event,https://www.wikidata.org/entity/Property:P793,strangling,https://www.wikidata.org/entity/Q1145328
+Dominique Dunne,https://www.wikidata.org/entity/Q254596,cause of death,https://www.wikidata.org/entity/Property:P509,coma,https://www.wikidata.org/entity/Q159557
+Poltergeist (1982),https://www.wikidata.org/entity/Q497622,number of deaths,https://www.wikidata.org/entity/Property:P509,2,
+Poltergeist (1982),https://www.wikidata.org/entity/Q497622,number of injured,https://www.wikidata.org/entity/Property:P1339,1,
+Heather O'Rourke,https://www.wikidata.org/entity/Q230965,cause of death,https://www.wikidata.org/entity/Property:P509,septic shock,https://www.wikidata.org/entity/Q1765564
+Poltergeist (1982),https://www.wikidata.org/entity/Q497622,has quality,https://www.wikidata.org/entity/Property:P1552,curse,https://www.wikidata.org/entity/Q109411
+Poltergeist (1982),https://www.wikidata.org/entity/Q497622,has quality,https://www.wikidata.org/entity/Property:P1552,paranormal phenomenon,https://www.wikidata.org/entity/Q332102
+Zelda Rubinstein,https://www.wikidata.org/entity/Q187345,significant event,https://www.wikidata.org/entity/Property:P793,paranormal phenomenon,https://www.wikidata.org/entity/Q332102
+The Wizard of Oz,https://www.wikidata.org/entity/Q193695,has quality,https://www.wikidata.org/entity/Property:P1552,curse,https://www.wikidata.org/entity/Q109411
+Margaret Hamilton,https://www.wikidata.org/entity/Q257756,significant event,https://www.wikidata.org/entity/Property:P793,burn,https://www.wikidata.org/entity/Q170518
+Betty Danko,https://www.wikidata.org/entity/Q98609857,significant event,https://www.wikidata.org/entity/Property:P793,burn,https://www.wikidata.org/entity/Q170518
+The Wizard of Oz,https://www.wikidata.org/entity/Q193695,cast member,https://www.wikidata.org/entity/Property:P161,Betty Danko,https://www.wikidata.org/entity/Q98609857
+The Wizard of Oz,https://www.wikidata.org/entity/Q193695,cast member,https://www.wikidata.org/entity/Property:P161,Buddy Ebsen,https://www.wikidata.org/entity/Q1001214
+Buddy Ebsen,https://www.wikidata.org/entity/Q1001214,significant event,https://www.wikidata.org/entity/Property:P793,pulmonary fibrosis,https://www.wikidata.org/entity/Q32446
+The Wizard of Oz,https://www.wikidata.org/entity/Q193695,cast member,https://www.wikidata.org/entity/Property:P161,Winged monkeys,https://en.wikipedia.org/entity/Winged_monkeys
+Winged monkeys,https://en.wikipedia.org/entity/Winged_monkeys,significant event,https://www.wikidata.org/entity/Property:P793,bone fracture,https://www.wikidata.org/entity/Q68833
+Terry,https://www.wikidata.org/entity/Q7704028,significant event,https://www.wikidata.org/entity/Property:P793,sprain,https://www.wikidata.org/entity/Q470747
+The Wizard of Oz,https://www.wikidata.org/entity/Q193695,number of injured,https://www.wikidata.org/entity/Property:P1339,5,
+The Alamo,https://www.wikidata.org/entity/Q1621909,has quality,https://www.wikidata.org/entity/Property:P1552,curse,https://www.wikidata.org/entity/Q109411
+The Alamo,https://www.wikidata.org/entity/Q1621909,significant event,https://www.wikidata.org/entity/Property:P793,typhoon,https://www.wikidata.org/entity/Q140588
+The Alamo,https://www.wikidata.org/entity/Q1621909,significant event,https://www.wikidata.org/entity/Property:P793,conflagration,https://www.wikidata.org/entity/Q168983
+The Alamo,https://www.wikidata.org/entity/Q1621909,significant event,https://www.wikidata.org/entity/Property:P793,car accident,https://www.wikidata.org/entity/Q61037771
+The Alamo,https://www.wikidata.org/entity/Q1621909,significant event,https://www.wikidata.org/entity/Property:P793,influenza,https://www.wikidata.org/entity/Q2840
+Laurence Harvey,https://www.wikidata.org/entity/Q374045,significant event,https://www.wikidata.org/entity/Property:P793,bone fracture,https://www.wikidata.org/entity/Q68833
+The Alamo,https://www.wikidata.org/entity/Q1621909,cast member,https://www.wikidata.org/entity/Property:P161,Lajean Ethridge,https://www.imdb.com/name/nm0253173/
+Lajean Ethridge,https://www.imdb.com/name/nm0253173/,cause of death,https://www.wikidata.org/entity/Property:P509,stabbing,https://www.wikidata.org/entity/Q464643
+The Alamo,https://www.wikidata.org/entity/Q1621909,number of deaths,https://www.wikidata.org/entity/Property:P509,1,
+The Alamo,https://www.wikidata.org/entity/Q1621909,number of injured,https://www.wikidata.org/entity/Property:P1339,3,
+The Sixth Sense,https://www.wikidata.org/entity/Q183063,has quality,https://www.wikidata.org/entity/Property:P1552,paranormal phenomenon,https://www.wikidata.org/entity/Q332102
+Toni Collette,https://www.wikidata.org/entity/Q229291,significant event,https://www.wikidata.org/entity/Property:P793,paranormal phenomenon,https://www.wikidata.org/entity/Q332102
+Shelley Duvall,https://www.wikidata.org/entity/Q235478,manner of inhumane treatment,https://www.wikidata.org/entity/Property:P7160,Isolation to facilitate abuse,https://www.wikidata.org/entity/Q28135040
+Shelley Duvall,https://www.wikidata.org/entity/Q235478,significant event,https://www.wikidata.org/entity/Property:P793,psychological stress,https://www.wikidata.org/entity/Q3500368
+Shelley Duvall,https://www.wikidata.org/entity/Q235478,significant event,https://www.wikidata.org/entity/Property:P793,alopecia,https://www.wikidata.org/entity/Q2697787
+Shelley Duvall,https://www.wikidata.org/entity/Q235478,victim of,https://www.wikidata.org/entity/Q96786225,Stanley Kubrick,https://www.wikidata.org/entity/Q2001
+Stanley Kubrick,https://www.wikidata.org/entity/Q2001,instance of,https://www.wikidata.org/entity/Property:P31,bully,https://www.wikidata.org/entity/Q107364758
+The Shining,https://www.wikidata.org/entity/Q186341,significant event,https://www.wikidata.org/entity/Property:P793,conflagration,https://www.wikidata.org/entity/Q168983
+The Shining,https://www.wikidata.org/entity/Q186341,has quality,https://www.wikidata.org/entity/Property:P1552,paranormal phenomenon,https://www.wikidata.org/entity/Q332102
+The Amityville Horror,https://www.wikidata.org/entity/Q472512,has quality,https://www.wikidata.org/entity/Property:P1552,film based on actual events,https://www.wikidata.org/entity/Q28146524
+The Amityville Horror,https://www.wikidata.org/entity/Q472512,has quality,https://www.wikidata.org/entity/Property:P1552,paranormal phenomenon,https://www.wikidata.org/entity/Q332102
+The Amityville Horror,https://www.wikidata.org/entity/Q472512,has quality,https://www.wikidata.org/entity/Property:P1552,curse,https://www.wikidata.org/entity/Q109411
+James Brolin,https://www.wikidata.org/entity/Q315051,significant event,https://www.wikidata.org/entity/Property:P793,paranormal phenomenon,https://www.wikidata.org/entity/Q332102
+Steve McQueen,https://www.wikidata.org/entity/Q159347,significant event,https://www.wikidata.org/entity/Property:P793,car accident,https://www.wikidata.org/entity/Q61037771
+Steve McQueen,https://www.wikidata.org/entity/Q159347,significant event,https://www.wikidata.org/entity/Property:P793,conspiracy,https://www.wikidata.org/entity/Q930164
+Charles Manson,https://www.wikidata.org/entity/Q485508,member,https://www.wikidata.org/entity/Q9200127,conspiracy,https://www.wikidata.org/entity/Q930164
+Steve McQueen,https://www.wikidata.org/entity/Q159347,significant event,https://www.wikidata.org/entity/Property:P793,divorce,https://www.wikidata.org/entity/Q93190
+Le Mans,https://www.wikidata.org/entity/Q613290,cast member,https://www.wikidata.org/entity/Property:P161,Derek Bell,https://www.wikidata.org/entity/Q165814
+Derek Bell,https://www.wikidata.org/entity/Q165814,significant event,https://www.wikidata.org/entity/Property:P793,car accident,https://www.wikidata.org/entity/Q61037771
+Derek Bell,https://www.wikidata.org/entity/Q165814,significant event,https://www.wikidata.org/entity/Property:P793,burn,https://www.wikidata.org/entity/Q170518
+Derek Bell,https://www.wikidata.org/entity/Q165814,significant event,https://www.wikidata.org/entity/Property:P793,amputation,https://www.wikidata.org/entity/Q477415
+Louise Edlind Friberg,https://www.wikidata.org/entity/Q438138,significant event,https://www.wikidata.org/entity/Property:P793,car accident,https://www.wikidata.org/entity/Q61037771
+Louise Edlind Friberg,https://www.wikidata.org/entity/Q438138,cause of death,https://www.wikidata.org/entity/Property:P509,car accident,https://www.wikidata.org/entity/Q61037771
+Le Mans,https://www.wikidata.org/entity/Q613290,number of deaths,https://www.wikidata.org/entity/Property:P509,1,
+Le Mans,https://www.wikidata.org/entity/Q613290,number of injured,https://www.wikidata.org/entity/Property:P1339,3,
+Computer Fraud and Abuse Act,https://www.wikidata.org/entity/Q5157437,inspired by,https://www.wikidata.org/entity/Property:P941,War Games,https://www.wikidata.org/entity/Q504697
+Computer Fraud and Abuse Act,https://www.wikidata.org/entity/Q5157437,main subject,https://www.wikidata.org/entity/Property:P921,internet security,https://www.wikidata.org/entity/Q1070427
+John William Vessey,https://www.wikidata.org/entity/Q562902,creator of,https://www.wikidata.org/entity/Q78522641,Computer Fraud and Abuse Act,https://www.wikidata.org/entity/Q5157437
+Aaron Swartz,https://www.wikidata.org/entity/Q302817,convicted of,https://www.wikidata.org/entity/Property:P1399,computer fraud,https://www.wikidata.org/entity/Q1122388
+Aaron Swartz,https://www.wikidata.org/entity/Q302817,cause of death,https://www.wikidata.org/entity/Property:P509,suicide,https://www.wikidata.org/entity/Q10737
+War Games,https://www.wikidata.org/entity/Q504697,number of deaths,https://www.wikidata.org/entity/Property:P509,1,
